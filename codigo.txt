@@ -10,3 +10,24 @@
     <hr >
     <a href="https://www.amazon.com.mx/Apollo-Viaje-Luna-Planet-Productions/dp/8460829812/ref=sr_1_5?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=19QYKAFU1FNJL&keywords=apollo+11&qid=1645892189&refinements=p_n_feature_ten_browse-bin%3A9775230011&rnid=9775229011&s=books&sprefix=apollo+1%2Cstripbooks%2C226&sr=1-5">Apollo 11, Un Viaje a la Luna</a>
   </div>
+
+-----------------------------------------------------------------------------------------------------------------------
+  <section id="contact">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d481728.804584038!2d-99.42380635078402!3d19.390519038362424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sve!4v1645892505082!5m2!1ses-419!2sve" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    
+      <hr>
+      <img src="kid.jpeg" class="img-responsive img-circle col-lg-3 col-md-3 col-sm-3 col-xs-4">
+      <h3>Perter Parker</h3>
+    
+            <div class="contact_1" >
+    
+               <a href="mailto:my@gmail.com?Subject=Hi">
+                   <h5><i class="fa fa-envelope"></i>&nbsp;&nbsp;mygmailid@gmail.com</h5>
+                </a> 
+    
+               <a href="#"> 
+                   <h5><i class="fa fa-instagram" ></i>&nbsp;&nbsp;myinstagramid</h5>
+                </a> 
+            </div>    
+    </section>
+
